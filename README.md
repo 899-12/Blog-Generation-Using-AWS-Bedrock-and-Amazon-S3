@@ -5,11 +5,7 @@ This repository demonstrates an automated system for generating blog posts using
 ## Table of Contents
 - [Features](#features)
 - [Architecture](#architecture)
-- [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [Error Handling](#error-handling)
-- [Future Enhancements](#future-enhancements)
-- [License](#license)
+
 
 ## Features
 - **AI-Powered Content Generation**: Uses Meta LLaMA2-13B Chat hosted on AWS Bedrock to generate 230-word blogs based on provided topics.
